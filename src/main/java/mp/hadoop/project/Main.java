@@ -9,6 +9,8 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+import mp.hadoop.project.mapper.TokenizerMapper;
+import mp.hadoop.project.reducer.IntSumReducer;
 import mp.hadoop.project.utils.ArgParser;
 
 public class Main {

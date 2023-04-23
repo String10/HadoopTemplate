@@ -1,4 +1,4 @@
-package mp.hadoop.project;
+package mp.hadoop.project.reducer;
 
 import java.io.IOException;
 
