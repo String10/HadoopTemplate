@@ -12,10 +12,10 @@
   <name>template</name>
   <description>Template Project for Hadoop</description>
   <properties>
-    <hadoop.version>3.3.4</hadoop.version>
+    <hadoop.version>3.2.1</hadoop.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>11</maven.compiler.source>
-    <maven.compiler.target>11</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <dependencies>
